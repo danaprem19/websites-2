@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "An overview of sources used in my project.\nThese are my sources. Here are some challenges. Quarto websites are awesome."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
